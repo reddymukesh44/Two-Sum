@@ -6,6 +6,7 @@ public class try1 {
         int target = 6;
         int arr[] = sum(nums,target);
         System.out.println(Arrays.toString(arr));
+        System.out.println("Hello");
     }
     public static int[] sum(int nums[],int target){
         int j = 0;
